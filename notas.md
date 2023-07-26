@@ -19,3 +19,29 @@ Certifique-se de ter as dependências corretas instaladas no seu sistema. No cas
 ou
 - rustup -V
 
+# Limpar e compilar novamente
+- Às vezes, o erro pode ocorrer devido a problemas temporários ou corrompidos nos arquivos intermediários de compilação. Tente limpar o diretório de compilação e compilar novamente:
+- cargo clean
+- cargo build
+
+# Compilar
+- rustc name_file.rs
+
+# Execultar o binário
+- ./ name_file
+
+# Cargo
+A ferramenta de compilação e gerenciamento de pacotes 
+Usado em projetos maiores e quando começamos a trabalhar com dependências
+
+# Criando um novo projeto com o cargo (workspace)
+- cargo new name-project
+
+# Compilando no workspace
+- cargo build
+
+# Execultado o projeto de uma vez
+- cargo run
+
+# Formatação automática
+- cargo fmt
