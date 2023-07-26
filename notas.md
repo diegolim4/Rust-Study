@@ -45,3 +45,15 @@ Usado em projetos maiores e quando começamos a trabalhar com dependências
 
 # Formatação automática
 - cargo fmt
+
+
+# MATERIAIS DE ESTUDO 
+
+- doc
+https://rust-br.github.io/rust-book-pt-br/ch00-00-introduction.html
+
+- Cargo
+https://www.rust-lang.org/pt-BR/learn/get-started
+
+- playlist video do yt
+https://www.youtube.com/watch?v=zWXloY0sslE&list=PLjSf4DcGBdiGCNOrCoFgtj0KrUq1MRUME&ab_channel=CodeShow
